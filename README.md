@@ -8,7 +8,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 Check out the live demo: https://movie-recommendation-engage.herokuapp.com/ 
 
-Link to video demo: 
+Link to video demo: https://drive.google.com/drive/folders/1vre8mHCNK6_WAGgwOu3VZSnakJUKgXA_?usp=sharing
 
 ## How to get the API Key?
 
